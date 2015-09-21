@@ -1,0 +1,26 @@
+Lato
+
+<link href='http://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>
+
+font-family: 'Lato', sans-serif;
+
+(light, normal, Bold, Ultra-bold)
+
+
+Gentium Basic
+
+<link href='http://fonts.googleapis.com/css?family=Gentium+Basic:400,700' rel='stylesheet' type='text/css'>
+
+font-family: 'Gentium Basic', serif;
+
+
+normal 400, bold 700
+
+
+Old standard
+
+<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,700' rel='stylesheet' type='text/css'>
+or import
+@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT:400,700);
+
+font-family: 'Old Standard TT', serif;

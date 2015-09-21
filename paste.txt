@@ -1,0 +1,17 @@
+ <div class="kontakt-main">
+          <div class="kontakt-ovoj">
+ 
+                  <h2 class="podnaslov">Kontakt</h2>
+ 
+                  <div class="kontakt-levo">
+                          <p><img src="svg/riketa.svg"></p>
+                          <p>email@gmail.com</p>
+                  </div>
+ 
+                  <div class="kontakt-desno">
+                          <p><img src="svg/telefon.svg"></p>
+                          <p>somenumbers</p>
+                  </div>
+ 
+          </div>
+ </div>
