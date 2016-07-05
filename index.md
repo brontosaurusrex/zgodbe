@@ -17,4 +17,7 @@ Univerzitetna diplomirana hispanistka in filozofinja, Filozofska fakulteta, Univ
 ## Izpopolnjevanja v tujini
 
 * Institut Ramon Llull, Universitat Autònoma de Barcelona, junij 2012, dvotedensko bivanje – prevajalska rezidenca v Barceloni, prevajanje romana katalonskega pisatelja Manuela de Pedrola Tipkopis o drugem nastanku
-* Institut Ramon Llull, Universitat Autònoma de Barcelona, junij 2014, tritedensko bivanje – prevajalska rezidenca v Barceloni, prevajanje romana katalonskega pisatelja Jordija Puntija Izgubljeni kovčki 
+* Institut Ramon Llull, Universitat Autònoma de Barcelona, junij 2014, tritedensko bivanje – prevajalska rezidenca v Barceloni, prevajanje romana katalonskega pisatelja Jordija Puntija Izgubljeni kovčki  
+  
+  
+

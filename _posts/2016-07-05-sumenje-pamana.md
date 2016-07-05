@@ -4,8 +4,6 @@ title: Šumenje Pamana
 ---
 *Jaume Cabré*
 
-*ŠUMENJE PAMANA*
-
 *Za Margarido*
 
 *Oče, ne odpusti jim, saj vedo, kaj delajo.

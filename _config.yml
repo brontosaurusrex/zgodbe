@@ -12,13 +12,16 @@ permalink:        pretty
 title:            Veronika Rot
 tagline:          'Samostojna kulturna delavka, prevajalka iz španščine in katalonščine'
 description:      'zgodbe.eu'
-url:              http://brontosaurusrex.github.io/zgodbe/
+url:              http://zgodbe.eu
 
 author:
   name:           'Veronika'
 #  url:            http://zgodbe.eu
 
 paginate:         7
+
+
+exclude: 'tmp,oldPage'
 
 # Custom vars
 

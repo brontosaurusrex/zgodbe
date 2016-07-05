@@ -1,2 +1,0 @@
-# zgodbe
-new zgodbe site.
