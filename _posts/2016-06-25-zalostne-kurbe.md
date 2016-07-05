@@ -4,8 +4,6 @@ title: Žalostne kurbe mojega življenja
 ---
 *GABRIEL GARCÍA MÁRQUEZ*
 
-### ŽALOSTNE KURBE MOJEGA ŽIVLJENJA
-
 Tisto leto, ko sem dopolnil devetdeset let, sem si zaželel podariti noč strastne ljubezni z deviškim dekletom. Spomnil sem se na Roso Cabarcas, lastnico ilegalne javne hiše, ki je imela navado obveščati svoje zveste stranke, kadar je imela na razpolago kakšen nenačet zalogajček. Nikoli nisem podlegel nobeni njeni opolzki skušnjavi, vendar pa ona ni verjela v brezmadežnost mojih načel. Tudi morala je le vprašanje časa, je z zlobnim nasmeškom večkrat rekla, boš že videl. Bila je nekaj let mlajša od mene in že toliko let nisem vedel ničesar o njej, da bi bila prav lahko že mrtva. Vendar sem njen glas prepoznal v trenutku, ko je zazvenel v slušalki, in brez okolišenja izstrelil:
 “Danes ja.”
 
