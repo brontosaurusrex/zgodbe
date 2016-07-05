@@ -1,0 +1,54 @@
+# Dependencies
+markdown:       kramdown
+highlighter: 	rouge
+gems: 		[jekyll-paginate, jekyll-sitemap]
+
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Veronika Rot
+tagline:          'Samostojna kulturna delavka, prevajalka iz španščine in katalonščine'
+description:      'zgodbe.eu'
+url:              http://zgodbe.eu
+
+author:
+  name:           'Veronika'
+  url:            http://zgodbe.eu
+
+paginate:         7
+
+# Custom vars
+
+github:
+  repo:           https://github.com/brontosaurusrex/fixme
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://brontosaurusrex.github.io/'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"

@@ -1,0 +1,121 @@
+@import url(http://fonts.googleapis.com/css?family=Gentium+Basic&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Alegreya&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Bilbo+Swash+Caps&subset=latin,latin-ext);
+
+body {
+	color: #333;
+	background: #eee;
+	margin: 0;
+	padding: 0;
+}
+
+
+div.section-holder  {
+
+	width: 100%;
+	background-image: url("images/noiseWhite.jpg");
+	background-repeat: repeat;	
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+
+div.header-text {
+
+	width: 800px;
+	margin: auto;
+
+} 
+
+
+
+
+
+
+div.header  {
+
+	width: 100%;
+ 
+	background: url("images/modriStroj.jpg"); 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+h1.header-title  {
+
+	text-align: center;
+	/* min-width: 500px; */
+	color: #fefcff;
+       	font-family: 'Bilbo Swash Caps', cursive;
+       	font-size: 120px;
+       	font-weight: 400;
+	margin: auto;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	letter-spacing: 3px;
+}
+
+h2.header-subtitle {
+
+	font-family: 'Gentium Basic', serif;
+	font-size: 22px;
+	font-weight: 400;
+
+	max-width: 900px;
+	margin: auto;	
+	margin-bottom: 3px;
+	text-align: center;
+	line-height: ;	
+	color: #fefcff;
+	text-transform: uppercase;			
+
+}
+
+
+h2.podnaslov {
+
+	max-width: 900px;
+	text-align: center;
+	/* min-width: 500px; */
+	color: #333;
+	font-family: 'Gentium Basic', serif;
+	font-family: 'Alegreya', serif;
+	font-family: 'Bilbo Swash Caps', cursive;
+	font-size: 70px;
+	font-weight: 400;
+	margin: auto;
+	margin-bottom: 70px;
+	letter-spacing: 20px;
+	/* text-transform: uppercase; */
+}
+
+div.text {
+	
+	font-family: 'Gentium Basic', serif;
+	font-size: 20px;
+	font-weight: 400;
+
+	max-width: 900px;
+	margin: auto;	
+	margin-bottom: 30px;
+	text-align: justify;
+	line-height: 35px;	
+	color: #333;
+}
+
+::selection {
+	  background: #ffb7b7; /* WebKit/Blink Browsers */
+	}
+	::-moz-selection {
+	  background: #ffb7b7; /* Gecko Browsers */
+	}	
+
+
+/* both H1 titles and div.text should be smaller when browser reaches a certain small size */ 
+
+

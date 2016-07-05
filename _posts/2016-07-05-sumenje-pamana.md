@@ -1,0 +1,35 @@
+---
+layout: post
+title: Šumenje Pamana
+---
+*Jaume Cabré*
+
+*ŠUMENJE PAMANA*
+
+*Za Margarido*
+
+*Oče, ne odpusti jim, saj vedo, kaj delajo.
+Vladimir Jankelevitch*
+
+
+Šum je bil komaj zaznaven. Kot bi nekdo pobožal vrata. Ta so se tiho odprla in orokavičena roka je od znotraj prijela za kljuko, da ne bi zaškripala. Vrata so se zaprla z neslišnim stokom. Nekdo, ves v črnem, se je gibal po črnini v stanovanju. Jurijeve oči, navajene na temo, so mu tiho sledile. Prišlek je vstopil v kabinet. Žaluzije so pustili dvignjene in neznanec jih je vse skupaj preklel. Na drugi strani šipe so snežinke, ki jih je prinesla nepričakovana hladna fronta, ohlajevale nočno pokrajino in jo, kot bi bila grob, delale še tišjo. Niti šumenje reke se ni slišalo. Odločil se je, da raje ne bo spustil žaluzij, da nihče, nikoli in pod nobenim pogojem ne bi izvedel, da je on tisto noč vstopil v tisto stanovanje.
+
+Z nejevoljnim vzdihom se je prišlek usedel za pisalno mizo, odložil aktovko na tla zraven stola in prižgal računalnik. Opazil je, da je miza brezhibno pospravljena, in vedel je, da mu bo to olajšalo delo. Jurij je vsiljivcu tiho sledil do kabineta in ga še tiše opazoval izza vrat. Modrikasta svetloba zaslona je napolnila prostor in prišlek si je zaželel, da se niti z zapuščene ulice niti z druge strani stanovanja ne bi opazil tisti nežni in hladni sij. Na listku, prilepljenem na rob zaslona, je bilo napisano: “Dobro jutro! Hrana je v omari nad hladilnikom! Hvala za vse!” Lotil se je pregledovanja datotek. Iz žepa vetrovke je vzel škatlico z disketami in začel potrpežljivo presnemavati dokumente. Nekje v bloku je nekdo zakašljal in sklepal je, da gre za sosede iz spodnjega stanovanja, ki so se vračali s kakšnega srečanja utrujeni, zdolgočaseni in naveličani, godrnjajoč med zobmi, da so že prestari za te stvari. Avtomobil, vozeč počasi zaradi snega, je zmotil tišino noči. Zakaj so računalniki tako počasni, kadar se ti mudi? Zakaj so tako hrupni, ko pa pravijo, da so tihi? Takrat je zazvonil telefon in on je takoj ukrepal: ugasnil je računalnik, čeprav je bil sredi dela, in negibno obsedel, kot skala, po nosu pa mu je zdrsnila kapljica potu. Ni si je obrisal, kajti on ni obstajal. Nobenega premikanja na drugem koncu stanovanja.
+
+“Trenutno nisem dosegljiva. Po pisku pustite sporočilo.”
+
+“Glej, zjutraj ne bom mogel priti, ker sem dobil novo naročilo nagrobnih kamnov za Tremp, hčerka pa si je nekaj vbila v glavo. Ne skrbi, prišel bom okoli poldneva, še pred kosilom. Živijo. Srečno in poljubček. Prišel te bom obiskat. Ah, ja, in imaš prav. Res se sliši šumenje Pamana.”
+Tu, tu, tu. Živijo. Moški glas z naglasom iz tistih hribov, hripav od tobaka in kavice s konjakom, ki je z gotovostjo govoril o jutrišnjem dnevu. Neznanec je nekaj sekund počakal, da bi se odprla kakšna vrata v stanovanju. Nič. Nikogar. Na svojo srečo se je Jurij odločil, da se ne bo izdal, in se je raje še naprej skrival, ne da bi se ganil. Ko se je spomin na zvonjenje telefona porazgubil, ko je znova lahko slišal snežinke, ki so nežno prekrivale vse tam zunaj, si je neznanec dovolil ponovno zadihati in znova je prižgal računalnik.
+
+Jurij se je odmaknil od vrat v kabinet, ne da bi prav dobro vedel, kaj naj stori, in se je začasno skril v dnevno sobo, prisluškujoč vsakemu šumu, ki je prihajal iz kabineta.
+
+Vsiljivec se je znova lotil dela. Hitro je napolnil pet disket z dokumenti iz datotek, ki so bile označene z začetnicama O. F., in še z nekaterimi drugimi za vsak primer. Ko je končal, je vse dokumente izbrisal iz računalnika. Prepričal se je, da za njimi ni ostalo nobene sledi. Nato je vstavil novo disketo z virusom, jo vzel spet ven in računalnik ugasnil.
+
+Prižgal je baterijo in si jo vtaknil v usta, da bi imel proste roke. Brez težav je iz miznega predala vzel tiste tri mape, ki so ga zanimale. Šlo je za papirje, fotografije in mape z zapiski. Vse skupaj je vtaknil v svojo aktovko in zaprl predal. Rdeč kovček na tleh zraven stene. Odprl ga je. Kot bi nekdo odhajal na potovanje. Previdno ga je prebrskal: nič, kar bi ga zanimalo. Zaprl ga je in pustil tam, kjer ga je našel. Preden je odšel, je za vsak primer preiskal še preostale predale. Prazni listi papirja, bloki, šolski zvezki. In škatla. Odprl jo je in še tisti hip mu je stopil pot na čelo. Zazdelo se mu je, da je na drugi strani stanovanja zaslišal vzdih.
+
+Ko je zapiral vrata stanovanja, je vedel, da za seboj ni pustil nobene sledi svoje navzočnosti, vedel je, da se je zamudil le malce več kot petnajst minut, da je opravil nalogo, in da bo toliko bolje zanj, kolikor dlje ga bo dohitelo jutro.
+
+Takoj ko je ostal sam, je Jurij odšel v temni kabinet. Zdelo se je, da je vse tako kot vedno, toda on je tukaj notri čutil nekakšno tesnobo. Nekakšen nenavaden občutek, da ni bil kos okoliščinam.
+
+
+
